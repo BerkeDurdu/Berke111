@@ -43,12 +43,7 @@
 
 <br>
 
-### 📊 GitHub Stats
-
+### ⚡ GitHub Streak
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkeDurdu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&cache_seconds=0" alt="BerkeDurdu Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkeDurdu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkeDurdu&theme=tokyonight&hide_border=true" alt="BerkeDurdu Streak" />
 </p>
